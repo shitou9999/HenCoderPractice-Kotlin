@@ -17,7 +17,7 @@ import android.util.TypedValue
 import android.view.View
 
 /**
- *
+ *sssss
  * A simple divider decoration with customizable colour, height, and left and right padding.
  */
 class DividerDecoration private constructor(
